@@ -9,6 +9,7 @@ A simple and responsive Task Manager web app built using **HTML**, **CSS**, and 
 - Mark tasks as completed
 - Filter tasks (All, Active, Completed)
 - Responsive design for all devices
+- Toggle between Dark Mode and Light Mode for better usability
 
 ## Technologies Used
 
